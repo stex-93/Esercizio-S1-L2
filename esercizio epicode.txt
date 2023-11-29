@@ -1,0 +1,16 @@
+1) Dato l'indirizzo IP 1.1.1.1/8, identificato come un indirizzo di classe "A", l'ottetto che identifica la rete è uno ed è il primo a sinistra.            Gli ottetti che identificano gli host sono i restanti tre. 
+L'indirizzo di rete è 1.0.0.0, mentre quello di broadcast è 1.255.255.255. L'indirizzo convenzionale del gateway è 1.0.0.1.
+
+2) Dato l'indirizzo IP 128.1.6.5/12, identificato come un indirizzo di classe "B", gli ottetti che identificano la rete sono i primi due, mentre i restanti ottetti identificheranno gli host.
+L'indirizzo di rete è 128.1.0.0, quello di broadcast è128.1.255.255. Infine l'indirizzo convenzionale per il default gateway sarà 128.1.0.1.
+
+3) Dato l'indirizzo IP 200.1.2.3/24, identificato come un indirizzo di classe "C", gli ottetti che identificheranno la rete sono i primi tre, mentre l'ultimo ottetto identifica gli host.
+L'indirizzo di rete è 200.1.2.0, quello di broadcast 200.1.2.255 e quello del gateway predefinito è 200.1.2.1.
+
+4) Dato l'indirizzo IP 192.192.1.1/22, identificato come un indirizzo di classe "C", gli ottetti che identificano la rete sono i primi tre, mentre l'ultimo ottetto identifica gli host. L'indirizzo di rete è 192.192.1.0, quello di broadcast è 192.192.1.255 e quello di getaway è 192.192.1.1.
+
+5) Dato l'indirizzo IP 126.5.4.3/9, identificato come un indirizzo di classe "A", l'ottetto che identifica la rete è il primo da sinistra, mentre gli altri tre identificano gli host. L'indirizzo di rete è 126.0.0.0, quello di broadcast è 126.255.255.255 e quello del gateway è 126.0.0.1.
+
+6) Dato l'indirizzo IP 200.1.9.8/24, identificato come un indirizzo di classe "C", gli ottetti che identificheranno la rete sono i primi tre, mentre l'ultimo ottetto identifica gli host. L'indirizzo di rete è 200.1.9.0, quello di broadcast è 200.1.9.255 e quello di gateway è 200.1.9.1.
+
+7) Dato l'indirizzo IP 172.16.0.4/16, identificato come un indirizzo di classe "B", gli ottetti che identificano la rete sono i primi due, mentre i restanti ottetti identificheranno gli host. L'indirizzo di rete è 172.16.0.0, quello di broadcast è 172.16.255.255 e quello di gateway 172.16.0.1.
